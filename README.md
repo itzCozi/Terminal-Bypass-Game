@@ -1,5 +1,12 @@
 # Terminal-Bypass-Game
 
-A simple game about early password cracking and access escalation set in the Citadel of City 17 
+A simple game about early password cracking and access escalation set in the Citadel of City 17, as gordon freeman trys to crack open a combine
+terminal to gain access to Dr. Wallace Breen's office.
 
-![alt text](ExampleIMG.png "Example of game")
+## Installation
+
+
+## Usage
+
+
+![gameIMG](ExampleIMG.png "Example of game")
