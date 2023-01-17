@@ -27,7 +27,7 @@ To be able to run the game directly from the terminal you must install [scoop](h
 4. Now copy the path of that folder and put it somewhere (Notepad or notepadqq)
 5. Then go back to the scoop folder and open shims
 6. make a new file and name it "bypass.cmd"
-7. Open the file and type without parentheses (@ "YOUR_PYTHON_.EXE" "COPIED_PATH")
+7. Open the file and type without parentheses (@"THE_COPIED_PATH.py"  %*)
 8. Then save the file and open terminal and type "bypass" (Or whatever the .cmd is named) you should see the game
 if not try again or make an issue
 
