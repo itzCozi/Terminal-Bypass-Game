@@ -9,4 +9,4 @@ terminal to gain access to Dr. Wallace Breen's office.
 ## Usage
 
 
-![gameIMG](ExampleIMG.png "Example of game")
+![gameIMG](github/ExampleIMG.png "Example of game")
