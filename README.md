@@ -30,9 +30,7 @@ To be able to run the game directly from the terminal you must install [scoop](h
 7. Open the file and type without parentheses (@"THE_COPIED_PATH.py"  %*)
 8. Then save the file and open terminal and type "bypass" (Or whatever the .cmd is named) you should see the game
 if not try again or make an issue
-
-Hint: You can find the python .exe file in C:/users/YOUR_USER/Programs/python                                                                                   
-
+                                                                                
 ![gameIMG](github/ExampleIMG.png "Example of game")
 
 ### Check me out
